@@ -1,7 +1,7 @@
 {
   "name": "angular-crumble-segment",
   "description": "A highly customizable breadcrumb service for AngularJS with angular-route-segment. Gets you back home the way YOU want.",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "main": "crumble-segment.js",
   "license": "MIT",
   "authors": [
