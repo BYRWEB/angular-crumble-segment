@@ -56,7 +56,7 @@
   }
 
   angular
-    .module('crumble', ['ngRoute'])
+    .module('crumble-segment', ['ngRoute', 'route-segment', 'view-segment'])
     .factory('crumble', ['$location', '$route', '$interpolate', bakery]);
 
 }();
