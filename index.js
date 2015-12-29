@@ -1,5 +1,5 @@
 // Shim for usage with npm/browserify instead of bower
 // jshint browserify: true
-require('angular-route');
-require('./crumble');
-module.exports = 'crumble';
+require('angular-route-segment');
+require('./crumble-segment');
+module.exports = 'crumble-segment';
