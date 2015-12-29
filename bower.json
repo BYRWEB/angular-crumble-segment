@@ -1,19 +1,19 @@
 {
-  "name": "angular-crumble",
-  "description": "A highly customizable breadcrumb service for AngularJS with ngRoute. Gets you back home the way YOU want.",
-  "version": "0.2.1",
-  "main": "crumble.js",
+  "name": "angular-crumble-segment",
+  "description": "A highly customizable breadcrumb service for AngularJS with angular-route-segment. Gets you back home the way YOU want.",
+  "version": "0.1.0",
+  "main": "crumble-segment.js",
   "license": "MIT",
   "authors": [
     "Raphael von der Grün <raphinesse@gmail.com>"
   ],
   "dependencies": {
     "angular": "^1.2",
-    "angular-route": "^1.2"
+    "angular-route-segment": "^1.5"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/raphinesse/angular-crumble.git"
+    "url": "git://github.com/BYRWEB/angular-crumble.git"
   },
   "keywords": [
     "angular",
